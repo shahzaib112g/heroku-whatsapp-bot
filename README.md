@@ -7,7 +7,7 @@
 
 ## 🚀 Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/your-username/your-repo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shahzaib112g/heroku-whatsapp-bot)
 
 ## 📦 How it works
 1. Deploy this app on Heroku
