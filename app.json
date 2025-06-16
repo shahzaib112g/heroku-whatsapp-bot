@@ -1,0 +1,15 @@
+{
+  "name": "WhatsApp Status Bot",
+  "description": "A WhatsApp bot that auto-views statuses after QR scan",
+  "repository": "https://github.com/shahzaib112g/heroku-whatsapp-bot",
+  "keywords": ["whatsapp", "bot", "heroku", "venom", "status"],
+  "env": {},
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "scripts": {
+    "postdeploy": "echo 'Deployed! Now open /qr to scan WhatsApp'"
+  }
+}
